@@ -28,8 +28,10 @@
 	font-size: 30px;
 }
 
-
-
 .navbar {
 	margin: 0;
+}
+
+.navbar li a{
+	background-color: #f7bd6c;
 }
