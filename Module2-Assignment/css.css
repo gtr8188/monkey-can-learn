@@ -6,6 +6,7 @@
 .title {
 	text-align: center;
 	border-style: none;
+	font-size: 1.75em;
 }
 
 
@@ -16,16 +17,17 @@ div > h1 {
 	margin-top: -1px;
 	margin-right: -1px;
 	float: right;
+	font-size: 1.25em;
 }
 
 p {
-	padding: 1%;
+	margin: 5px;
 	clear: both;
 }
 
 .sector {
 	border: 1px solid black;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	background-color: #999999;
 	margin-right: 10px;
 	margin-left: 10px;
@@ -57,7 +59,6 @@ p {
 	  	float: left;
 	}
 	.div-md-2 {
-
 	  	float: left;
 	}
 }
